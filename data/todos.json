@@ -1,12 +1,24 @@
 {
-    "tasks":[
-        {
-            "id": "1",
-            "text": "Buy milk with some orange"
-        },
-        {
-            "id": "2",
-            "text": "Meet some new friends"
-        }
-    ]
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Meet some new friends"
+    },
+    {
+      "id": "3",
+      "text": "Go to gym"
+    },
+    {
+      "id": "4",
+      "text": "Start new activities"
+    },
+    {
+      "id": "6",
+      "text": "Go to the market"
+    },
+    {
+      "id": "0076b9b0-4781-400e-a9d4-03707e31f009",
+      "text": "Learn Angular"
+    }
+  ]
 }

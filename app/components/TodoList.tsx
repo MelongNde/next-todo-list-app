@@ -1,5 +1,5 @@
 
-import { Itask } from "@/types/tasks"
+import { Itask } from "../../types/tasks"
 import Task from "./Task"
 
 interface TodoListProps {
